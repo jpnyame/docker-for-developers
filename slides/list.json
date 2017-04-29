@@ -1,4 +1,8 @@
 [
     "index.md",
-    "what-is-docker.md"
+    "what-is-docker.md",
+    "what-are-containers.md",
+    "what-are-images.md",
+    "docker-installation.md",
+    "docker-post-installation.md"
 ]
