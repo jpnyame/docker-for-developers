@@ -2,7 +2,7 @@
 
 * Few things to do after completing installation
 <section>
-<pre><code data-trim>
+<pre><code>
 $ docker --version 
 $ docker-compose --version
 </code></pre>

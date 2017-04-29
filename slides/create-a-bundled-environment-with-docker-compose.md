@@ -3,7 +3,7 @@
 * You can create a development environment with multiple images in one single step
 * Docker-compose allows you to describe images features and dependencies in a docker-compose.yml file.
 <section>
-<pre><code data-trim>
+<pre><code>
 version: "2"
 services:
   my-wpdb:

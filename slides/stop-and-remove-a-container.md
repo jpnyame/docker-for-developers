@@ -2,19 +2,19 @@
 
 * To stop a container:
 <section>
-<pre><code data-trim>
+<pre><code>
 $ docker stop my-nginx
 </code></pre>
 </section>
 * To restart an existing container:
 <section>
-<pre><code data-trim>
+<pre><code>
 $ docker start my-nginx
 </code></pre>
 </section>
 * To remove a container:
 <section>
-<pre><code data-trim>
+<pre><code>
 $ docker rm my-nginx
 </code></pre>
 </section>
