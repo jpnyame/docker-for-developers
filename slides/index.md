@@ -1,10 +1,4 @@
 
 # Docker for developers
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+A (better) way to do web development
