@@ -10,8 +10,7 @@ $ docker build -t zip-nginx:1.0
 * Create a new container based on the newly created image:
 <section>
 <pre><code>
-$ docker run -d --name my-zip-nginx  
--v /Users/jpnyame/Documents/docker/src:/usr/share/nginx/html:ro
+$ docker run -d --name my-zip-nginx  -v /Users/jpnyame/Documents/docker/src:/usr/share/nginx/html:ro
 -p 5000:80 zip-nginx:1.0
 </code></pre>
 </section>
