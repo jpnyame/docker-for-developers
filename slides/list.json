@@ -4,5 +4,13 @@
     "what-are-containers.md",
     "what-are-images.md",
     "docker-installation.md",
-    "docker-post-installation.md"
+    "docker-post-installation.md",
+    "how-to-get-docker-images.md",
+    "download-an-image.md",
+    "start-a-new-container.md",
+    "stop-and-remove-a-container.md",
+    "interact-with-a-container.md",
+    "add-volumes-to-a-container.md",
+    "create-a-docker-image.md",
+    "create-a-bundled-environment-with-docker-compose.md"
 ]

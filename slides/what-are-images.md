@@ -1,3 +1,5 @@
 ##  What are images?
 
-This is a new Markdown slide
+* Docker images are the basis of containers
+* Templates for a given environment
+* Containers are instances of an image

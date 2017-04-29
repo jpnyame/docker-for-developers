@@ -1,6 +1,6 @@
 ##  Docker post installation
 
-* We need to check that the installation is complete
+* Few things to do after completing installation
 <section>
 <pre><code data-trim>
 $ docker --version 
